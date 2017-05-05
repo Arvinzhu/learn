@@ -4,10 +4,12 @@ const BASE_PATH = path.join(__dirname, '../');
 
 export default {
     /**
-     * 服务器端口
+     * 服务器端口 默认为8080
 	 *就是为了制造冲突我要改成8280
      */
     SERVER_PORT: 8280,
+
+
 
     /**
      * 路径地址
