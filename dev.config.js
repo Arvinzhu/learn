@@ -4,9 +4,9 @@ const BASE_PATH = path.join(__dirname, '../');
 
 export default {
     /**
-     * 服务器端口
+     * 服务器端口 默认为8080
      */
-    SERVER_PORT: 8180,
+    SERVER_PORT: 8080,
 
     /**
      * 路径地址
